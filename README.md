@@ -14,28 +14,4 @@ This project demonstrates clean architecture, authentication, notifications, and
 - **Search & Filters** – Users can find jobs by title, company, or location.
 - **Role-based Access Control** – Different permissions for admins, companies, and applicants.
 
----
-
-## 🛠️ Tech Stack
-
-- **Backend:** Laravel 10
-- **Frontend:** HTML, CSS, JavaScript
-- **Database:** MySQL
-- **Authentication:** Laravel Breeze
-- **Mailing:** Laravel Mailables
-- **Hosting:** (Add hosting info if deployed)
-
----
-
-## 📂 Project Structure
-
-Job-Board-Project/
-│
-├── app/ # Application core
-├── database/ # Migrations & seeders
-├── public/ # Public assets
-├── resources/ # Views & assets
-├── routes/ # Web & API routes
-├── tests/ # Unit & feature tests
-└── README.md # Project documentation
 
